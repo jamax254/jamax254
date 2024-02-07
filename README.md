@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamax254
-- 👀 I’m interested in database administration...
+- 👀 I’m interested in web developer...
 - 🌱 I’m currently learning information technology...
-- 💞️ I’m looking to collaborate on ..the field of database.
+- 💞️ I’m looking to collaborate on ..the field of web developer
 - 📫 How to reach me . phone 0113149476..
 
 <!---
